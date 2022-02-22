@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Max Clinton</title>
+    <link>https://mtclinton.com/categories/python/</link>
+    <description>Recent content in python on Max Clinton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mtclinton.com/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a simple python epoll server</title>
+      <link>https://mtclinton.com/posts/simple-python-epoll-server/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mtclinton.com/posts/simple-python-epoll-server/</guid>
+      <description>How can you make your python server fast? One method is through using the Linux system call epoll. Epoll is an I/O event notification system that monitors file descriptors of I/O events.
+In your first foray into writing python http servers you will likely encounter or write a simple program as seen below:</description>
+    </item>
+    
+  </channel>
+</rss>
