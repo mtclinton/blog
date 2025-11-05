@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Socket on Max Clinton</title>
-    <link>http://localhost:1313/tags/socket/</link>
+    <link>https://mtclinton.com/tags/socket/</link>
     <description>Recent content in Socket on Max Clinton</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/socket/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mtclinton.com/tags/socket/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a simple python epoll server</title>
-      <link>http://localhost:1313/posts/simple-python-epoll-server/</link>
+      <link>https://mtclinton.com/posts/simple-python-epoll-server/</link>
       <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/simple-python-epoll-server/</guid>
+      <guid>https://mtclinton.com/posts/simple-python-epoll-server/</guid>
       <description>&lt;p&gt;How can you make your python server fast? One method is through using the Linux system call epoll. Epoll is an I/O event notification system that monitors file descriptors of I/O events.&lt;/p&gt;&#xA;&lt;p&gt;In your first foray into writing python http servers you will likely encounter or write a simple program as seen below:&lt;/p&gt;</description>
     </item>
   </channel>
