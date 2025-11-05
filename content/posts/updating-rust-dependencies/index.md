@@ -3,11 +3,7 @@ title: "Updating a Rust Project to Latest Dependencies"
 date: 2025-11-05
 draft: false
 tags: ["rust", "cursor", "dependencies"]
-categories = [
-"rust",
-"ai"
-]
-
+categories: ["rust", "ai"]
 ---
 
 I recently updated an older Rust project (termdex, a terminal-based Pokédex) to use the latest package versions. Here's what I ran into and how I fixed it.
