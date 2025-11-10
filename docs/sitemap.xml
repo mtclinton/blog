@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mtclinton.com/categories/ai/</loc>
-    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mtclinton.com/categories/</loc>
+    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mtclinton.com/posts/learning-to-sew-part-1/</loc>
+    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mtclinton.com/</loc>
+    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mtclinton.com/posts/</loc>
+    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mtclinton.com/tags/sewing/</loc>
+    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mtclinton.com/categories/sewing/</loc>
+    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mtclinton.com/tags/</loc>
+    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mtclinton.com/categories/ai/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mtclinton.com/tags/cursor/</loc>
@@ -14,19 +32,10 @@
     <loc>https://mtclinton.com/tags/dependencies/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mtclinton.com/</loc>
-    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mtclinton.com/posts/</loc>
-    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mtclinton.com/tags/rust/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mtclinton.com/categories/rust/</loc>
-    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mtclinton.com/tags/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mtclinton.com/posts/updating-rust-dependencies/</loc>
