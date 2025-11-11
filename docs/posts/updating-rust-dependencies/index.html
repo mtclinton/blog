@@ -79,7 +79,7 @@
   
 </div>
 
-      <div><p>I recently updated an older Rust project (termdex, a terminal-based Pokédex) to use the latest package versions. Here&rsquo;s what I ran into and how I fixed it.</p>
+      <div><p>I recently updated an older Rust project (<a href="https://github.com/mtclinton/termdex">termdex</a>, a terminal-based Pokédex) to use the latest package versions. Here&rsquo;s what I ran into and how I fixed it.</p>
 <h2 id="the-starting-point">The Starting Point</h2>
 <p>The project was using older versions of most dependencies:</p>
 <ul>
@@ -134,6 +134,7 @@
 </ol>
 <p>The AI was helpful for finding all the places that needed changes (like searching for <code>f.size()</code> or <code>#[table_name</code>), but you still need to understand the codebase structure to make the right fixes.</p>
 <h2 id="final-result">Final Result</h2>
+<p><img src="termdex.gif" alt="termdex"></p>
 <p>After updating:</p>
 <ul>
 <li><code>ratatui</code>: 0.27 → 0.29</li>

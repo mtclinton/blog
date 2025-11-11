@@ -6,7 +6,7 @@ tags: ["rust", "cursor", "dependencies"]
 categories: ["rust", "ai"]
 ---
 
-I recently updated an older Rust project (termdex, a terminal-based Pokédex) to use the latest package versions. Here's what I ran into and how I fixed it.
+I recently updated an older Rust project ([termdex](https://github.com/mtclinton/termdex), a terminal-based Pokédex) to use the latest package versions. Here's what I ran into and how I fixed it.
 
 ## The Starting Point
 
@@ -74,6 +74,8 @@ I used Cursor's AI assistant to help with this. The workflow was:
 The AI was helpful for finding all the places that needed changes (like searching for `f.size()` or `#[table_name`), but you still need to understand the codebase structure to make the right fixes.
 
 ## Final Result
+
+![termdex](termdex.gif)
 
 After updating:
 - `ratatui`: 0.27 → 0.29
