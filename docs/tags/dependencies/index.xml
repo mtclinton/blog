@@ -13,7 +13,7 @@
       <link>https://mtclinton.com/posts/updating-rust-dependencies/</link>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://mtclinton.com/posts/updating-rust-dependencies/</guid>
-      <description>&lt;p&gt;I recently updated an older Rust project (termdex, a terminal-based Pokédex) to use the latest package versions. Here&amp;rsquo;s what I ran into and how I fixed it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-starting-point&#34;&gt;The Starting Point&lt;/h2&gt;&#xA;&lt;p&gt;The project was using older versions of most dependencies:&lt;/p&gt;</description>
+      <description>&lt;p&gt;I recently updated an older Rust project (&lt;a href=&#34;https://github.com/mtclinton/termdex&#34;&gt;termdex&lt;/a&gt;, a terminal-based Pokédex) to use the latest package versions. Here&amp;rsquo;s what I ran into and how I fixed it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-starting-point&#34;&gt;The Starting Point&lt;/h2&gt;&#xA;&lt;p&gt;The project was using older versions of most dependencies:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
