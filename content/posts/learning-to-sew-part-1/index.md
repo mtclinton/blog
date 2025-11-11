@@ -1,14 +1,11 @@
-+++
-title= "Learning to Sew Part 1"
-date= "2025-11-09"
-description = "Learning how to sew by making a jacket"
-tags = [
-"sewing",
-]
-categories = [
-"sewing",
-]
-+++
+---
+title: "Learning to Sew Part 1"
+date: 2025-11-09
+description: "Learning how to sew by making a jacket"
+draft: false
+tags: ["sewing"]
+categories: ["sewing"]
+---
 
 After the sudden and tragic death of [Paul Vincent](https://sehkelly.com) this summer and my brother making his own suit for a [1920s-inspired lawn party](https://monroeclinton.com/making-my-own-suit/) I have been inspired to learn sewing to make my own clothes. After much delay, I have finally started this journey and this is the first in what is planned to be a long series of posts documenting  my foray into the art.
 
